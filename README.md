@@ -1,0 +1,1 @@
+A flutter based news app that uses Firebase as backend.
